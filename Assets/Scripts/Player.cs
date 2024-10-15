@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player : ContextBehaviour
 {
     
 }
